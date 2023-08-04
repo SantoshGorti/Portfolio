@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+
+}
+h1{
+    color: whitesmoke;
+
+}
+header{
+    background-color: rgb(91, 87, 87);
+    height: 100px;
+    padding: 20px;
+    
+}
+ul li{
+    display: inline;
+    color: bisque;
+    padding:20px;
+}
+ul li a{
+    color: bisque;
+    text-decoration: none;
+}
+#home img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+#portfolio{
+        background-color: antiquewhite;
+}
+footer{
+    background-color: rgb(247, 229, 229);
+    height: 20px;
+}
+footer p{
+    color: rgb(192, 19, 19);
+}
